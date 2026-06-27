@@ -1,14 +1,6 @@
-# --- Competition data (large; not redistributed; train.csv exceeds GitHub's 100MB limit) ---
-train.csv
-test.csv
-train_labels.csv
-test_users.csv
-referer_vectors.csv
-geo_info.csv
+# Competition data CSVs and model.pkl are tracked via Git LFS (see .gitattributes)
 
 # --- Generated artifacts (produced by running the notebook) ---
-model.pkl
-submission.csv
 report.pdf
 *.png
 
